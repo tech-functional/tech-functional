@@ -7,7 +7,7 @@ Building connected healthcare ecosystems through innovation, integration, and te
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Healthcare+Integration+Solutions;Enterprise+System+Interoperability;HL7+%7C+FHIR+%7C+DICOM;REST+APIs+%7C+SOAP+Services;Database+Engineering+%26+Optimization;Building+Reliable+Digital+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Healthcare+Integration+Solutions;Enterprise+System+Interoperability;HL7+%7C+FHIR+%7C+DICOM;REST+APIs+%7C+SOAP+Services;Database+Engineering+%26+Optimization;Data+Warehousing+%7C+Power+BI+%7C+Superset;Building+Reliable+Digital+Solutions" />
 </p>
 
 ---
@@ -97,6 +97,60 @@ To connect systems, simplify complex workflows, and deliver innovative technolog
 
 ---
 
+## 📊 Data Analytics & Engineering | TFT Team
+
+Architecting scalable **Data Warehouses** using the **Medallion Architecture** to extract, clean, map, and transform complex raw data into BI-ready layers. Specializing in enterprise **dimensional data modeling** and interactive, dynamic dashboarding with **Power BI** and **Apache Superset** to optimize healthcare workflows and empower executive decision-making.
+
+```text
+   Source Systems (HIS · RIS · LIS · PACS · ERP)
+                      |
+                 🥉 Bronze
+          Raw ingestion, as-is data
+                      |
+                 🥈 Silver
+       Cleaned, mapped & validated data
+                      |
+                  🥇 Gold
+     Dimensional models (facts & dimensions)
+                      |
+       +--------------+--------------+
+       |                             |
+   Power BI                  Apache Superset
+       |                             |
+       +--------------+--------------+
+                      |
+        Executive Insights & Decisions
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗 Data Engineering
+
+- Data Warehouse Architecture
+- Medallion Architecture (Bronze / Silver / Gold)
+- ETL / ELT Pipelines
+- Data Cleansing & Mapping
+- Data Quality & Validation
+
+</td>
+<td width="50%">
+
+### 📈 Analytics & BI
+
+- Dimensional Data Modeling
+- Star & Snowflake Schemas
+- Interactive Dashboards
+- KPI & Executive Reporting
+- Healthcare Workflow Analytics
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💻 Technology Stack
 
 ### Programming Languages
@@ -135,6 +189,15 @@ To connect systems, simplify complex workflows, and deliver innovative technolog
 <img src="https://img.shields.io/badge/REST_API-0096FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SOAP-009688?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge" />
+</p>
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Medallion_Architecture-CD7F32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Warehouse-4B0082?style=for-the-badge" />
 </p>
 
 ### Development Tools & Platforms
@@ -194,6 +257,7 @@ Our integration solutions focus on:
 | Integration Platforms | Managing messages, APIs, and automated workflows. |
 | Enterprise APIs | Developing secure and scalable REST and SOAP services. |
 | Database Solutions | Designing and optimizing SQL Server databases. |
+| Data Warehousing & BI | Building Medallion-based data warehouses and interactive Power BI / Superset dashboards. |
 | Business Automation | Automating financial, operational, and administrative processes. |
 | Reporting Solutions | Building reporting systems and data analysis tools. |
 | Web Applications | Developing modern frontend and backend applications. |
@@ -210,6 +274,7 @@ Our repositories may include:
 - HL7 and FHIR interfaces.
 - API development projects.
 - Database scripts and stored procedures.
+- Data warehouse pipelines and BI dashboards.
 - Integration utilities and automation tools.
 - Internal development tools.
 - Technical documentation.
@@ -228,10 +293,6 @@ Our repositories may include:
 - **Continuous Improvement:** Learning and adopting modern technologies.
 
 ---
-
-
-
-
 
 <p align="center">
 <strong>Connecting Systems. Empowering Healthcare. Engineering Innovation.</strong>
