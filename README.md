@@ -156,7 +156,7 @@ Architecting scalable **Data Warehouses** using the **Medallion Architecture** t
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=py,cs,js,ts,html,css" />
 </p>
 
 ### Frontend Development
