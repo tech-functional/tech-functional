@@ -231,17 +231,7 @@ Our repositories may include:
 
 
 
-## 🤝 Collaboration & Innovation
 
-We believe that technology creates greater value when systems work together.
-
-Our team is committed to developing innovative healthcare and enterprise solutions, sharing technical knowledge, and continuously improving the way systems communicate.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Healthcare-Technology-0077B5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Enterprise-Integration-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software-Development-6C63FF?style=for-the-badge" />
-</p>
 
 <p align="center">
 <strong>Connecting Systems. Empowering Healthcare. Engineering Innovation.</strong>
